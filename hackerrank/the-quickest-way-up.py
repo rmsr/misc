@@ -1,5 +1,7 @@
 # python3
 
+# snakes and ladders DP solution
+
 inin = lambda: [ map(int, input().split()) for _ in range(int(input())) ]
 
 def shortest():
